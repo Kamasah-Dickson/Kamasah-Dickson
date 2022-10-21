@@ -2,7 +2,7 @@
 - 👀 I’m very interested and specialized in frontend development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on github projects
-- 📫 How to reach me, you can email me on *kamasahelizabeth15@gmail.com* or on twitter *https://twitter.com/Kamas_DEV*
+- 📫 How to reach me, you can email me on *kamasahdickson19@gmail.com* or on twitter *https://twitter.com/Kamas_DEV*
 - it's a pleasure.
 
 <!---
