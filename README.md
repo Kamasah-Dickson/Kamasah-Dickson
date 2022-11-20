@@ -14,13 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://codepen.io/aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aftabrehan" height="30" width="40" /></a>
-<a href="https://dev.to/aftab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aftab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabrehan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aftabrehan" height="30" width="40" /></a>
-<a href="https://medium.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aftabrehan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aftabrehan" height="30" width="40" /></a>
-</p>
 <img align="left" width="300" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif" />
 
 
