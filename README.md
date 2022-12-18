@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi, I'm Kamasah Dickson 👋</h1>
-<h3 align="center">I like spending most of my time coding. Coding is very interesting and I think it is the best decision I have ever made.</h3>
+<h1 align="left">Hi, I'm Kamasah Dickson 👋</h1>
+<h3 align="left">I like spending most of my time coding. Coding is very interesting and I think it is the best decision I have ever made.</h3>
 <p width="100%" height="400px"><img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"/> </p>
 <p align="left"> <a href="https://twitter.com/kamas_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kamas_dev?logo=twitter&style=for-the-badge" alt="kamas_dev" /></a> </p>
 
@@ -12,11 +12,6 @@
 - 💬 Ask me about **React/JavaScript/TypeScript/Sass**
 
 - 📫 How to reach me **kamasahdickson19@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 
 
