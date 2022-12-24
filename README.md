@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamasah-dickson&show_icons=true&locale=en&layout=compact" alt="kamasah-dickson" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kamasah-dickson&" alt="kamasah-dickson" /></p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamasah-Dickson&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamasah-Dickson&theme=default)
