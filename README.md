@@ -31,3 +31,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamasah-Dickson&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamasah-Dickson&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamasah-Dickson&theme=default)
