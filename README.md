@@ -3,7 +3,8 @@
 <h1 align="left">Hello there, I'm Kamasah Dickson 👋</h1>
 <h3 align="left">I like spending most of my time coding. Coding is very interesting and I think it is the best decision I have ever made.</h3>
 
-![sincerely-media-lQ3go6MNPzo-unsplash](https://user-images.githubusercontent.com/86136379/210252798-fe0d34a2-e400-413a-a453-ab1d9d70aa23.jpg)
+
+![florian-olivo-4hbJ-eymZ1o-unsplash](https://user-images.githubusercontent.com/86136379/212574259-82034507-6d6a-4042-9fd1-34014357d5ef.jpg)
 
 
 
