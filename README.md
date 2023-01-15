@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/Kamasah-Dickson](https://www.frontendmentor.io/profile/Kamasah-Dickson)
 
-- 💬 Ask me about **React/JavaScript/TypeScript/Sass**
-
 - 📫 How to reach me **kamasahdickson19@gmail.com**
 
 
