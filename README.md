@@ -7,7 +7,6 @@
 ![florian-olivo-4hbJ-eymZ1o-unsplash](https://user-images.githubusercontent.com/86136379/212574259-82034507-6d6a-4042-9fd1-34014357d5ef.jpg)
 
 
-
 <p align="left"> <a href="https://twitter.com/kamas_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kamas_dev?logo=twitter&style=for-the-badge" alt="kamas_dev" /></a> </p>
 
 - 🌱 I’m currently learning **React/Redux**
@@ -17,7 +16,6 @@
 - 💬 Ask me about **React/JavaScript/TypeScript/Sass**
 
 - 📫 How to reach me **kamasahdickson19@gmail.com**
-
 
 
 <h3 align="left">Connect with me:</h3>
