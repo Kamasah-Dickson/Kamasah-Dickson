@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/kamas_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kamas_dev?logo=twitter&style=for-the-badge" alt="kamas_dev" /></a> </p>
 
 - 🌱 I’m currently learning **React/Redux**
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/Kamasah-Dickson](https://www.frontendmentor.io/profile/Kamasah-Dickson)
+- 👨‍💻 Most of my projects are available at [https://www.frontendmentor.io/profile/Kamasah-Dickson](https://www.frontendmentor.io/profile/Kamasah-Dickson)
 - 📫 How to reach me **kamasahdickson19@gmail.com**
 
 
