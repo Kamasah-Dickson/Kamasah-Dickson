@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/kamas_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kamas_dev?logo=twitter&style=for-the-badge" alt="kamas_dev" /></a> </p>
 
 - 🌱 I’m currently learning **React/Redux**
-- 👨‍💻Portfolio 
+- 👨‍💻 Portfolio https://kamasah-dickson.netlify.app/
 - 📫 How to reach me **kamasahdickson19@gmail.com**
 
 
