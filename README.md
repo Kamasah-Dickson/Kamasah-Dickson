@@ -2,9 +2,6 @@
 <a href="#">
 <h1 align="left">Hello there, I'm Kamasah Dickson 👋</h1>
 <h3 align="left">I like spending most of my time coding. Coding is very interesting and I think it is the best decision I have ever made.</h3>
-
-
-
  
  
 <div align="center">
