@@ -18,7 +18,8 @@
   </p>
 <br>
 
-![snake gif](https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <h3 align="center">Connect with me:</h3>
