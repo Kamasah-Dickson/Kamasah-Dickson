@@ -6,8 +6,9 @@
  
 <div align="center">
 <br>
-<img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-<img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamasah-Dickson&layout=compact&langs_count-16&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamasah-Dickson&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true"/>
  </div>
 
 </a> 
