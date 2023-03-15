@@ -2,14 +2,16 @@
 <a href="#">
 <h1 align="left">Hello there, I'm Kamasah Dickson 👋</h1>
 <h3 align="left">I like spending most of my time coding. Coding is very interesting and I think it is the best decision I have ever made.</h3>
- 
- 
-<div align="center">
-<br>
- <img src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=tokyonight&hide_border=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamasah-Dickson&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true"/>
  </div>
+  
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamasah-Dickson&theme=tokyonight"/>
+ </div>
+ 
 
 </a> 
 <br>
@@ -18,6 +20,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,jest,redux,vite,html,css,sass,tailwind,js,ts,react,nextjs,firebase,vscode,netlify,vercel,figma" alt="skills logos" />
   </p>
 <br>
+
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Kamasah-Dickson&theme=tokyonight&hide_border=true"/>
+
+</div>
+     
+<br>
+
 
 ![snake gif](https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake-dark.svg)
 
