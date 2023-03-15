@@ -23,13 +23,14 @@
 
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Kamasah-Dickson&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamasah-Dickson&theme=tokyonight"/>
 </div>
      
 <br>
 
-
-![snake gif](https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+<img src="https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake-dark.svg"/>
+ </div>
 
 
 
