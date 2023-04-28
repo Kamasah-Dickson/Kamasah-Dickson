@@ -1,7 +1,7 @@
 
 <a href="#">
 <h1 align="left">Hello there, I'm Kamasah Dickson. A Frontend Developer🔥</h1>
-<h3 align="left">I like spending most of my time coding. Coding is very interesting and I think it is the best decision I have ever made.</h3>
+<h3 align="left">I like spending most of my time coding. Getting your hands dirty as a developer is the best way to grow and I think coding is one of the best decision I have ever made.</h3>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=tokyonight&hide_border=true"/>
