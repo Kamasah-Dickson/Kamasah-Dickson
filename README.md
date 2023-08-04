@@ -15,7 +15,7 @@
 
 </a> 
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,jest,redux,vite,html,css,sass,tailwind,materialui,js,ts,react,nextjs,firebase,vscode,netlify,vercel,figma&perline=10" alt="skills logos" />
   </p>
