@@ -17,7 +17,7 @@
 <br>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jest,redux,vite,html,css,sass,tailwind,materialui,js,ts,react,nextjs,firebase,vscode,netlify,vercel,figma&perline=10" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,express,jest,redux,vite,html,css,sass,tailwind,materialui,js,ts,react,nextjs,firebase,vscode,netlify,vercel,figma&perline=10" alt="skills logos" />
   </p>
 <br>
 
