@@ -1,5 +1,10 @@
+<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+  </p>
+</div>
 
-<a href="#">
+
 <h1 align="left">Hello there, I'm Kamasah Dickson. A Frontend Developer🔥</h1>
 <h3 align="left">I spend most of my time coding. I like to challenge myself and  being a developer is the best decision I ever made🔥⚡</h3>
 
