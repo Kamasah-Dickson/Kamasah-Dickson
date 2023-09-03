@@ -6,7 +6,7 @@
 
 
 <h1 align="left">Hello there, I'm Kamasah Dickson. A Frontend Developer🔥</h1>
-<h3 align="left">I spend most of my time coding. I like to challenge myself and  being a developer is the best decision I ever made🔥⚡</h3>
+<h3 align="left">I spend most of my time coding. I like to challenge myself and  being a developer is one of the amazing decision I ever made🔥⚡</h3>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=tokyonight&hide_border=true"/>
