@@ -1,8 +1,7 @@
-<div align="center">
-  <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-  </p>
-</div>
+
+![pixel-night-banner](https://github.com/Kamasah-Dickson/Kamasah-Dickson/assets/86136379/f0ea5680-1c02-4cd6-b3e8-ec06e282ea5f)
+
+
 
 <h1 align="left">Hello there, I'm Kamasah Dickson. A Frontend Developer🔥</h1>
 <h3 align="left">I spend most of my time coding. I like to challenge myself and  being a developer is one of the best decision I ever made🔥⚡</h3>
