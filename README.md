@@ -16,7 +16,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,express,cypress,redux,vite,html,css,sass,tailwind,nodejs,js,ts,react,solidity,nextjs,firebase,mongodb,figma,prisma&perline=10" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,express,cypress,vite,sass,tailwind,nodejs,js,ts,react,solidity,nextjs,figma,prisma,python&perline=10" alt="skills logos" />
 </p>
 
 <p align="center">
