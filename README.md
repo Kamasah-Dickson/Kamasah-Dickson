@@ -19,10 +19,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,express,cypress,vite,sass,tailwind,nodejs,js,ts,react,solidity,nextjs,figma,prisma,python&perline=10" alt="skills logos" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Kamasah-Dickson&theme=tokyonight&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamasah-Dickson&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake-dark.svg"/>
